@@ -9661,23 +9661,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\teacher\\.nuget\\packages\\": {},
+    "C:\\Users\\qetiq\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectAPI\\ProjectAPI.csproj",
+      "projectUniqueName": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectAPI\\ProjectAPI.csproj",
       "projectName": "ProjectAPI",
-      "projectPath": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectAPI\\ProjectAPI.csproj",
-      "packagesPath": "C:\\Users\\teacher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectAPI\\obj\\",
+      "projectPath": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectAPI\\ProjectAPI.csproj",
+      "packagesPath": "C:\\Users\\qetiq\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\teacher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\qetiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9692,11 +9692,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDAL\\ProjectDAL.csproj": {
-              "projectPath": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDAL\\ProjectDAL.csproj"
+            "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDAL\\ProjectDAL.csproj": {
+              "projectPath": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDAL\\ProjectDAL.csproj"
             },
-            "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDTO\\ProjectDTO.csproj": {
-              "projectPath": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDTO\\ProjectDTO.csproj"
+            "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDTO\\ProjectDTO.csproj": {
+              "projectPath": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDTO\\ProjectDTO.csproj"
             }
           }
         }
@@ -9750,7 +9750,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDAL\\ProjectDAL.csproj": {}
+    "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDAL\\ProjectDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDAL\\ProjectDAL.csproj": {
+    "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDAL\\ProjectDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDAL\\ProjectDAL.csproj",
+        "projectUniqueName": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDAL\\ProjectDAL.csproj",
         "projectName": "ProjectDAL",
-        "projectPath": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDAL\\ProjectDAL.csproj",
-        "packagesPath": "C:\\Users\\teacher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teacher\\Downloads\\ITStepProject - Copy1\\ITStepProject - Copy1\\ITStepProject - Copy\\ProjectDAL\\obj\\",
+        "projectPath": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDAL\\ProjectDAL.csproj",
+        "packagesPath": "C:\\Users\\qetiq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\qetiq\\Source\\Repos\\SportProject\\ProjectFolder\\ITStepProject\\ProjectDAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\teacher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qetiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }
