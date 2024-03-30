@@ -1,0 +1,48 @@
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\bin\Debug\net6.0\ProjectDTO.deps.json
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\bin\Debug\net6.0\ProjectDTO.dll
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\bin\Debug\net6.0\ProjectDTO.pdb
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.AssemblyReference.cache
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ProjectDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfoInputs.cache
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfo.cs
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.CoreCompileInputs.cache
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ProjectDTO.dll
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\refint\ProjectDTO.dll
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ProjectDTO.pdb
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDTO\obj\Debug\net6.0\ref\ProjectDTO.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.deps.json
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.pdb
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfo.cs
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\refint\ProjectDTO.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.pdb
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ref\ProjectDTO.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.deps.json
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.pdb
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfo.cs
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\refint\ProjectDTO.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.pdb
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ref\ProjectDTO.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.deps.json
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\bin\Debug\net6.0\ProjectDTO.pdb
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.AssemblyReference.cache
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfoInputs.cache
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.AssemblyInfo.cs
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.csproj.CoreCompileInputs.cache
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\refint\ProjectDTO.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ProjectDTO.pdb
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDTO\obj\Debug\net6.0\ref\ProjectDTO.dll

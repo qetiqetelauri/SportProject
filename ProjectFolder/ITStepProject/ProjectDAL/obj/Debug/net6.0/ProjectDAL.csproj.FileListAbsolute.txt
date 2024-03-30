@@ -1,0 +1,48 @@
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\bin\Debug\net6.0\ProjectDAL.deps.json
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\bin\Debug\net6.0\ProjectDAL.dll
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\bin\Debug\net6.0\ProjectDAL.pdb
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.AssemblyReference.cache
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfoInputs.cache
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfo.cs
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ProjectDAL.dll
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\refint\ProjectDAL.dll
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ProjectDAL.pdb
+C:\Users\qetiq\source\repos\ITStepProject\ProjectDAL\obj\Debug\net6.0\ref\ProjectDAL.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.deps.json
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.pdb
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfo.cs
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\refint\ProjectDAL.dll
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.pdb
+C:\Users\user\Downloads\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ref\ProjectDAL.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.deps.json
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.pdb
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfo.cs
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\refint\ProjectDAL.dll
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.pdb
+C:\Users\student\Downloads\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ref\ProjectDAL.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.deps.json
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\bin\Debug\net6.0\ProjectDAL.pdb
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.AssemblyReference.cache
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfoInputs.cache
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.AssemblyInfo.cs
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.csproj.CoreCompileInputs.cache
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\refint\ProjectDAL.dll
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ProjectDAL.pdb
+C:\Users\teacher\Downloads\ITStepProject - Copy1\ITStepProject - Copy1\ITStepProject - Copy\ProjectDAL\obj\Debug\net6.0\ref\ProjectDAL.dll
